@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveServer", "MoveServer.csproj", "{BE64FDDC-866E-40DE-BBA2-CE5F439C0353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE64FDDC-866E-40DE-BBA2-CE5F439C0353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE64FDDC-866E-40DE-BBA2-CE5F439C0353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE64FDDC-866E-40DE-BBA2-CE5F439C0353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE64FDDC-866E-40DE-BBA2-CE5F439C0353}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E1B2080-4D9F-407A-97A7-B09A6A3BA3B0}
+	EndGlobalSection
+EndGlobal

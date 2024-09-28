@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d82535a90815e434d866ae3e0e401493
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mouseEffect: {fileID: 4848498890255846327, guid: 8e26b7f63eb97d946b29ca6a427165fe,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
